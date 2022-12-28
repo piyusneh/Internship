@@ -1,4 +1,4 @@
-## Surprise Housing - Housing Price Predication & Analysis Project
+## Housing Project
 
 Houses are one of the necessary need of each and every person around the globe and therefore housing and real estate 
 market is one of the markets which is one of the major contributors in the world’s economy. It is a very large market 
